@@ -1,0 +1,38 @@
+#hero {
+  text-align: center;
+  color: rgb(34, 33, 33);
+}
+
+.para {
+  margin: 20px 50px;
+  color: rgb(5, 4, 4);
+}
+#ramm {
+  text-align: center;
+  font-weight: 500;
+}
+#ramm:hover {
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(17, 0, 255);
+}
+#hero:hover {
+  font-style: oblique;
+}
+html {
+  background-color: gray;
+  border: 2px solid black;
+  margin: 30 px 50 px;
+}
+
+html:hover {
+  background-color: rgb(149, 199, 228);
+}
+
+.pack:hover {
+  color: maroon;
+}
+.para span li {
+  display: inline;
+  color: red;
+}
